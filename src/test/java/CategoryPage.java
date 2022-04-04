@@ -13,14 +13,5 @@ public class CategoryPage extends BaseTest {
     }
 
 
-    /*@Step("Kategori sayfasındaysan <text> ini kontrol et")
-    public void categoryPageTrue(String xpath, String text) {
-
-        Assert.assertTrue("Bulunan element text değerini içermiyor", false);
-        appiumDriver.findElementByXPath(xpath).getText().contains(text);
-
-
-    }
-    */
 
 }

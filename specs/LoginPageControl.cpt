@@ -1,0 +1,6 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Giriş sayfasının açıldığını doğrula
+*xpath "//*[@resource-id='com.ozdilek.ozdilekteyim:id/btnLogin']" li elementi bul ve "Giriş Yap" ini kontrol et
+*<5> saniye kadar bekle

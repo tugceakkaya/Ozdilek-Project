@@ -1,0 +1,11 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+
+# Kullanıcı adını gir
+*id "com.ozdilek.ozdilekteyim:id/etEposta" li elementi bul ve "tugce.akkaya@testinium.com" değerini yaz
+* "5" saniye kadar bekle
+
+# Şifreni gir
+*id "com.ozdilek.ozdilekteyim:id/etPassworda" li elementi bul ve "12345" değerini yaz
+* "5" saniye kadar bekle

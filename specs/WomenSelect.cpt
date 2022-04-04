@@ -1,0 +1,6 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Menü kısmından Kadın Seçeneğini Tıkla
+* Kadın menüsünün üzerine gelip ona ait "//*[@resource-id='com.ozdilek.ozdilekteyim:id/recyclerCategories']/android.widget.RelativeLayout[2]" li elemente tıkla
+* "5" saniye kadar bekle

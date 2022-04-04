@@ -1,0 +1,8 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Kategoriler sayfasını aç
+
+* Kategori menüsünü açabilmek için "//android.widget.FrameLayout[@content-desc="Kategoriler"]/android.widget.ImageView" li elemente tıkla
+* "5" saniye bekle
+* Kategori sayfasındaysan "//android.widget.FrameLayout[@content-desc="Kategoriler"]/android.view.ViewGroup/android.widget.TextView" ini kontrol et
